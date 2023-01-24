@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/colorBackground" />
+
+    <padding
+        android:bottom="@dimen/background_badge_padding"
+        android:left="@dimen/background_badge_padding"
+        android:right="@dimen/background_badge_padding"
+        android:top="@dimen/background_badge_padding" />
+
+    <corners
+        android:radius="@dimen/background_badge_corner_radius"/>
+
+</shape>

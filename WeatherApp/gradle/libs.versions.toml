@@ -1,0 +1,16 @@
+#####
+# Ultimately we want to move all dependecy versions from build.gradle here. However, at the moment
+# if we do that, then Android Studio will not inform us about new versions by highlighting them yellow.
+#
+# It's a known problem that Google is working on. When they fix it, then we move our versions here.
+# https://issuetracker.google.com/issues/226078451
+#####
+
+[versions]
+coil = "2.0.0-rc01"
+compileSdk = "33"
+minSdk = "23"
+targetSdk = "33"
+
+[libraries]
+coil-kt-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }

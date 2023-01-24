@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="error">Error</string>
+    <string name="error_api_call_failure">Error: API Call failure.</string>
+
+    <string name="notifications_channel_id">WEATHER_APP_NOTIFICATION_CHANNEL</string>
+    <string name="notifications_channel_name">Weather App Notifications</string>
+    <string name="notifications_channel_description">Be informed when temperature in particular place drops or raises too much.</string>
+    <string name="notifications_title">Weather App Update!</string>
+    <string name="notifications_description_cold">It is freezing! %d degrees Celsius!</string>
+    <string name="notifications_description_hot">It\'s boiling! %d degrees Celsius!</string>
+    <string name="generic_error_message">"Oops! There was a problem with your request. Please check your connection and try again"</string>
+    <string name="search_bar_hint">Enter your city name here…</string>
+    <string name="search_button_description">Search button</string>
+</resources>

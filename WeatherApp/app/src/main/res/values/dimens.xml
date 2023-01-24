@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimensions Section -->
+    <dimen name="background_badge_padding">3dp</dimen>
+    <dimen name="background_badge_corner_radius">2dp</dimen>
+
+    <dimen name="appbar_padding_vertical">16dp</dimen>
+    <dimen name="appbar_text_size">16sp</dimen>
+    <dimen name="appbar_margin_end">12dp</dimen>
+    <dimen name="appbar_button_length">40dp</dimen>
+    <dimen name="appbar_button_padding">4dp</dimen>
+    <dimen name="appbar_button_margin_horizontal">20dp</dimen>
+
+    <dimen name="list_item_padding">20dp</dimen>
+    <dimen name="list_item_margin_horizontal">20dp</dimen>
+    <dimen name="list_item_margin_vertical">10dp</dimen>
+    <dimen name="list_item_internal_spacing">20dp</dimen>
+    <dimen name="list_item_elevation">2dp</dimen>
+    <dimen name="list_item_text_size_big">16sp</dimen>
+    <dimen name="list_item_text_size_main">13sp</dimen>
+
+    <dimen name="feed_view_padding_vertical">15dp</dimen>
+
+    <dimen name="loading_badge_elevation">3dp</dimen>
+    <dimen name="loading_badge_button_elevation">10dp</dimen>
+    <dimen name="loading_badge_text_size_medium">18sp</dimen>
+    <dimen name="loading_badge_internal_spacing">30dp</dimen>
+    <dimen name="loading_badge_progressbar_margin">30dp</dimen>
+
+</resources>
