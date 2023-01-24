@@ -1,6 +1,7 @@
 # Simple Weather App
 
-This is a simple weather app that returns weather data for a selected city.
+This is a simple weather app that returns weather data for a selected city. This app uses the OpenWeather free API. 
+Geocoding API endpoint is used to search for cities by name and return suggestions, and the Weather Data API is used to fetch the weather data based on the selected city.
 
 To run:
 1. navigate to "local.properties" file in app's root directory
