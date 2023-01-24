@@ -14,3 +14,8 @@ How to use:
 2. Click the search icon
 3. Choose your city from the list
 4. Weather data will appear, along with a notification if predetermined requirements are met
+
+
+TO DO:
+1. Add unit tests
+2. Add UI tests
